@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\prod.o
+./release\add.o
+./release\postavka.o
+./release\constants.o
+./release\moc_mainwindow.o
+./release\moc_prod.o
+./release\moc_add.o
+./release\moc_postavka.o
+);

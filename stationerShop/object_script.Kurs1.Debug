@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\prod.o
+./debug\add.o
+./debug\postavka.o
+./debug\constants.o
+./debug\moc_mainwindow.o
+./debug\moc_prod.o
+./debug\moc_add.o
+./debug\moc_postavka.o
+);
